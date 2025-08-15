@@ -19,4 +19,7 @@ https://musical-artifacts.com/artifacts?formats=sf2&order=name&tags=oud&utm_sour
 
 https://musical-artifacts.com/artifacts/1229?utm_source=chatgpt.com
 
+
 !wget -q https://github.com/pepaslabs/fluidsynth-soundfonts/raw/master/FluidR3_GM/FluidR3_GM.sf2 -O /content/FluidR3_GM.sf2 \ || wget -q https://github.com/urish/cyberbotics/raw/master/projects/robotbenchmark/resources/fluidr3/FluidR3_GM.sf2 -O /content/FluidR3_GM.sf2
+
+https://www.polyphone.io/en/soundfonts/instrument-sets/250-fluidr3-gm?utm_source=chatgpt.com
