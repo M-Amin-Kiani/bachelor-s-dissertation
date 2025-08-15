@@ -1,0 +1,42 @@
+# پوشه
+!mkdir -p /content/sf2
+
+# FluidR3 (از قبل هم داری؛ این صرفاً یه بک‌آپه)
+!wget -q https://github.com/pepaslabs/fluidsynth-soundfonts/raw/master/FluidR3_GM/FluidR3_GM.sf2 -O /content/sf2/FluidR3_GM.sf2 || true
+
+# GM های باکیفیت از GitHub
+!wget -c https://raw.githubusercontent.com/bratpeki/soundfonts/master/GeneralUser.sf2 -O /content/sf2/GeneralUser.sf2
+!wget -c https://raw.githubusercontent.com/bratpeki/soundfonts/master/ChoriumRevA.sf2 -O /content/sf2/ChoriumRevA.sf2
+!wget -c https://raw.githubusercontent.com/bratpeki/soundfonts/master/WeedsGM3.sf2 -O /content/sf2/WeedsGM3.sf2
+
+# Arachno (پاپ/راک)
+!wget -c "http://maxime.abbey.free.fr/mirror/arachnosoft/files/soundfonts/arachno-soundfont-10-sf2.zip" -O /content/sf2/Arachno.zip
+!unzip -o /content/sf2/Arachno.zip -d /content/sf2
+
+# برای فارسی
+!wget -c "https://musical-artifacts.com/artifacts/940/Persa.sf2" -O /content/sf2/Persa.sf2
+
+# SoundFont پیش‌فرض (General MIDI با کیفیت خوب)
+!wget -q https://github.com/pepaslabs/fluidsynth-soundfonts/raw/master/FluidR3_GM/FluidR3_GM.sf2 -O /content/FluidR3_GM.sf2 \
+  || wget -q https://github.com/urish/cyberbotics/raw/master/projects/robotbenchmark/resources/fluidr3/FluidR3_GM.sf2 -O /content/FluidR3_GM.sf2
+
+
+-------------------------------------------------------------------------
+
+
+DEVICE = 0 if torch.cuda.is_available() else -1
+print("Device for Transformers:", "cuda:0" if DEVICE==0 else "cpu")
+# SF2_PATH_DEFAULT = "/content/FluidR3_GM.sf2"
+
+
+SF2_BANKS = {
+    "fluidr3": "/content/sf2/FluidR3_GM.sf2",
+    "generaluser": "/content/sf2/GeneralUser.sf2",
+    "chorium": "/content/sf2/ChoriumRevA.sf2",
+    "weeds": "/content/sf2/WeedsGM3.sf2",
+    "arachno": "/content/sf2/Arachno SoundFont - Version 1.0.sf2",
+    "persa": "/content/sf2/Persa.sf2",  
+}
+
+# نمونه استفاده با یکی از اعضای بانک ساوند فونت ها:
+SF2_PATH_DEFAULT = SF2_BANKS["arachno"]

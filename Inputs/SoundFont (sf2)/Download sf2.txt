@@ -1,0 +1,24 @@
+
+Arachno SoundFont (GM) –
+ خوش‌تعادل، مخصوصاً گیتار الکتریک/بیس/درامش برای راک تمیزتر از FluidR3 است.
+
+https://musical-artifacts.com/artifacts?q=Arachnosoft+-+Maxime+Abbey&utm_source=chatgpt.com
+
+---------------------------------------------------------------------
+
+یرانی/خاورمیانه‌ای رایگان و قابل اتکا
+: MuseScore General HQ
+ (به‌خصوص برای سنتور/نی/عود معادل‌های نزدیک دارد).
+
+https://musical-artifacts.com/artifacts?formats=sf2&order=name&tags=oud&utm_source=chatgpt.com
+
+---------------------------------------------------------------------
+
+استاندارد GM/GS
+ و کامل: همهٔ سازهای پایه (پیانو، باس، درام، گیتار…)، روی بانک‌ها/پریست‌های استانداردِ جنرال‌میدی چیده شده‌اند، پس هر میدی‌ای بدون دردسر صدا می‌دهد.
+
+https://musical-artifacts.com/artifacts/1229?utm_source=chatgpt.com
+
+!wget -q https://github.com/pepaslabs/fluidsynth-soundfonts/raw/master/FluidR3_GM/FluidR3_GM.sf2 -O /content/FluidR3_GM.sf2 \ || wget -q https://github.com/urish/cyberbotics/raw/master/projects/robotbenchmark/resources/fluidr3/FluidR3_GM.sf2 -O /content/FluidR3_GM.sf2
+
+https://www.polyphone.io/en/soundfonts/instrument-sets/250-fluidr3-gm?utm_source=chatgpt.com
