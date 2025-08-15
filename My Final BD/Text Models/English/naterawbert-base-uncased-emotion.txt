@@ -1,0 +1,8 @@
+# ── Pipeline متن انگلیسی single-label ──
+pipe_en = pipeline(
+    "text-classification",
+    model="nateraw/bert-base-uncased-emotion",
+    tokenizer="nateraw/bert-base-uncased-emotion",
+    device=0,
+    return_all_scores=False
+)

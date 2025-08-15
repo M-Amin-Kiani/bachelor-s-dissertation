@@ -1,0 +1,16 @@
+from transformers import pipeline
+from pydub import AudioSegment
+
+# لود مدل تحلیل احساس از صوت
+model_id = "superb/wav2vec2-base-superb-er"
+emotion_pipeline = pipeline("audio-classification", model=model_id)
+
+# تبدیل mp3 به wav با تنظیمات درست
+audio = AudioSegment.from_file("/content/input2.wav") #shad
+audio = audio.set_frame_rate(16000).set_channels(1)
+audio.export("/content/sample.wav", format="wav")
+
+# تست مدل روی فایل صوتی wav
+audio_path = "/content/sample.wav"
+results = emotion_pipeline(audio_path)
+print(results)
