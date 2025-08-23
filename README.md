@@ -6,8 +6,9 @@ Completed Bachelor's degree from Isfahan University 400-404.
 
 
 # 🎵 Smart Music Assistant with SoundFont Support
+<img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/73cd0af6-734b-4363-83a6-ebbaa568ba63" />
+<img width="1895" height="947" alt="2" src="https://github.com/user-attachments/assets/39e3f2f0-9565-4bf6-8853-04c1ddb5c79f" />
 
-![Project Banner](<img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/73cd0af6-734b-4363-83a6-ebbaa568ba63" />)
 
 
 ## 🔹 معرفی پروژه
