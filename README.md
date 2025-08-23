@@ -2,9 +2,6 @@
 Completed Bachelor's degree from Isfahan University 400-404.
 
 # 🎹 Musio [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/bachelor-s-dissertation)
-
-
-# 🎵 Smart Music Assistant with SoundFont Support
 <img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/226ac558-3dba-46e2-8bc8-f340042bcbfb" />
 <img width="1895" height="947" alt="2" src="https://github.com/user-attachments/assets/4a8182bd-a142-4885-a931-f65e22061f63" />
 
