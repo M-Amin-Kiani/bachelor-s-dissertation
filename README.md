@@ -48,10 +48,3 @@ Completed Bachelor's degree from Isfahan University 400-404.
 - Flask یا Django (برای رندر قالب‌ها)
 - مرورگر مدرن (Chrome, Firefox, Edge)
 
-### نصب
-
-1. کلون کردن پروژه:
-
-```bash
-git clone https://github.com/username/soundfont-selector.git
-cd soundfont-selector
