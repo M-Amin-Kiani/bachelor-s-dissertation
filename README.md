@@ -1,6 +1,6 @@
 # bachelor-s-dissertation
-Completed Bachelor's degree from Isfahan University 400-404.
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/bachelor-s-dissertation)
+ Completed Bachelor's degree from Isfahan University 400-404.
 
 
 # 🎹 Musio
