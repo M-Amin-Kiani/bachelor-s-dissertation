@@ -1,4 +1,4 @@
-# bachelor-s-dissertation
+<img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/0bf8e3e3-5375-4cae-8648-efeb3c921505" /><img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/53a8fa80-a5ff-4ccb-aa19-224ef1050098" /># bachelor-s-dissertation
 Completed Bachelor's degree from Isfahan University 400-404.
 
 
@@ -7,7 +7,8 @@ Completed Bachelor's degree from Isfahan University 400-404.
 
 # 🎵 Smart Music Assistant with SoundFont Support
 
-![Project Banner](https://via.placeholder.com/1024x300?text=Smart+Music+Assistant)
+![Project Banner](<img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/73cd0af6-734b-4363-83a6-ebbaa568ba63" />)
+
 
 ## 🔹 معرفی پروژه
 
