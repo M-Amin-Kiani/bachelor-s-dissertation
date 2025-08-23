@@ -1,0 +1,49 @@
+{
+  "emotion": "ANGRY",
+  "style": "global",
+  "structural": {
+    "bpm": 169,
+    "bars": 42,
+    "note_density_per_bar": 70.83,
+    "mode_match": 1.0,
+    "tempo_fit": 1.0,
+    "density_fit": 0.0,
+    "dissonance_fit": 1.0,
+    "syncopation_fit": 0.74,
+    "overall_structural_score": 0.724,
+    "build_params": {
+      "emotion": "ANGRY",
+      "style": "global",
+      "minutes": 1.0,
+      "bpm": 169,
+      "mode": "minor",
+      "key_midi": 48,
+      "progression_A": [
+        "i",
+        "bVI",
+        "bVII",
+        "i"
+      ],
+      "progression_B": [
+        "i",
+        "bVI",
+        "bVII",
+        "i"
+      ],
+      "drums": true,
+      "comment": "راک/متال تهاجمی",
+      "bars_total": 42,
+      "sr": 22050
+    }
+  },
+  "audio_eval": {
+    "predicted_emotion_audio": "SAD",
+    "predicted_confidence_audio": 0.53,
+    "target_emotion": "ANGRY",
+    "audio_match": 0.0
+  },
+  "final_score": 0.543,
+  "detected_label": "ANGRY",
+  "detected_confidence": 0.992,
+  "soundfont": "/content/sf2/Arachno SoundFont - Version 1.0.sf2"
+}

@@ -1,0 +1,49 @@
+{
+  "emotion": "HAPPY",
+  "style": "global",
+  "structural": {
+    "bpm": 135,
+    "bars": 33,
+    "note_density_per_bar": 24.15,
+    "mode_match": 1.0,
+    "tempo_fit": 1.0,
+    "density_fit": 0.0,
+    "dissonance_fit": 0.5,
+    "syncopation_fit": 0.65,
+    "overall_structural_score": 0.64,
+    "build_params": {
+      "emotion": "HAPPY",
+      "style": "global",
+      "minutes": 1.0,
+      "bpm": 135,
+      "mode": "major",
+      "key_midi": 65,
+      "progression_A": [
+        "I",
+        "V",
+        "vi",
+        "IV"
+      ],
+      "progression_B": [
+        "I",
+        "V",
+        "vi",
+        "IV"
+      ],
+      "drums": true,
+      "comment": "شاد و رقصان",
+      "bars_total": 33,
+      "sr": 22050
+    }
+  },
+  "audio_eval": {
+    "predicted_emotion_audio": "HAPPY",
+    "predicted_confidence_audio": 0.999,
+    "target_emotion": "HAPPY",
+    "audio_match": 1.0
+  },
+  "final_score": 0.73,
+  "detected_label": "HAPPY",
+  "detected_confidence": 0.914,
+  "soundfont": "/content/sf2/Persa.sf2"
+}
