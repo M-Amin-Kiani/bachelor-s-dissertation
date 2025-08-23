@@ -1,9 +1,9 @@
 # bachelor-s-dissertation
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/bachelor-s-dissertation)
- Completed Bachelor's degree from Isfahan University 400-404.
+Completed Bachelor's degree from Isfahan University 400-404.
 
 
-# 🎹 Musio
+# 🎹 Musio [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/bachelor-s-dissertation)
+
 
 این پروژه یک **رابط کاربری وب زیبا و مدرن** برای انتخاب و مدیریت SoundFontها (sf2) است که به کاربران امکان می‌دهد SoundFontهای پیش‌فرض یا دلخواه خود را بارگذاری کنند و انتخاب خود را ببینند. طراحی پروژه به گونه‌ای است که هم **ریسپانسیو** باشد، هم **حس و حال مدرن و شیشه‌ای (glass UI)** داشته باشد.
 
