@@ -1,13 +1,12 @@
-<img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/0bf8e3e3-5375-4cae-8648-efeb3c921505" /><img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/53a8fa80-a5ff-4ccb-aa19-224ef1050098" /># bachelor-s-dissertation
+# bachelor-s-dissertation
 Completed Bachelor's degree from Isfahan University 400-404.
-
 
 # 🎹 Musio [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/bachelor-s-dissertation)
 
 
 # 🎵 Smart Music Assistant with SoundFont Support
-<img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/73cd0af6-734b-4363-83a6-ebbaa568ba63" />
-<img width="1895" height="947" alt="2" src="https://github.com/user-attachments/assets/39e3f2f0-9565-4bf6-8853-04c1ddb5c79f" />
+<img width="1900" height="955" alt="1" src="https://github.com/user-attachments/assets/226ac558-3dba-46e2-8bc8-f340042bcbfb" />
+<img width="1895" height="947" alt="2" src="https://github.com/user-attachments/assets/4a8182bd-a142-4885-a931-f65e22061f63" />
 
 
 
